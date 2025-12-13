@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prasad!;+A+Cloud+and+DevOps+Engineer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ghanashyama!;+A+Cloud+and+DevOps+Engineer!" />
 </h1>
 
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in an organization</h3>
