@@ -7,6 +7,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubWithGHANA&label=Profile%20views&color=0e75b6&style=flat" alt="githubWithGHANA" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="githubWithGHANA" /></a> </p>
+### 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA" alt="githubWithGHANA" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="githubWithGHANA" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA&theme=algolia&title=Commit,Issues,Stars,Followers" alt="githubWithGHANA" />
+</p>
 
 <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/blogbranding.png" alt="BlogBranding" />
  
