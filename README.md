@@ -45,7 +45,8 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
 </a>
 </p>
-<br>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&show_icons=true&locale=en&layout=compact" alt="githubWithGHANA" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubWithGHANA&show_icons=true&locale=en" alt="githubWithGHANA" /></p>
