@@ -37,13 +37,13 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/git.gif" alt="git" width="80" height="55"/> </a> 
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="45" height="55"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/jenkins.gif" alt="jenkins" width="75" height="55"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="75" height="55"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/whale-docker.gif" alt="docker" width="55" height="55"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> 
 <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
 </a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a> 
 </p>
 
 
