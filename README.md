@@ -38,12 +38,10 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/jenkins.gif" alt="jenkins" width="75" height="55"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/whale-docker.gif" alt="docker" width="55" height="55"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> 
-
 <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
 </a>
 </p>
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&show_icons=true&locale=en&layout=compact" alt="githubWithGHANA" /></p>
 
@@ -52,5 +50,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=githubWithGHANA&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+### 🔥 Contribution Streak
+> Consistency is the key to mastery 🚀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubWithGHANA&" alt="githubWithGHANA" /></p>
 
