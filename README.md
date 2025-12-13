@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubWithGHANA&label=Profile%20views&color=0e75b6&style=flat" alt="githubWithGHANA" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA" alt="githubWithGHANA" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="githubWithGHANA" /></a> </p>
 
 <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/blogbranding.png" alt="BlogBranding" />
  
