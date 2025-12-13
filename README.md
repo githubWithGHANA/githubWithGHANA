@@ -7,17 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubWithGHANA&label=Profile%20views&color=0e75b6&style=flat" alt="githubWithGHANA" /> </p>
 
 ### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA" alt="githubWithGHANA" />
-  </a>
-</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="githubWithGHANA" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA&theme=algolia&title=Commit,Issues,Stars,Followers" alt="githubWithGHANA" />
 </p>
 
 <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/blogbranding.png" alt="BlogBranding" />
@@ -54,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
 </a>
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&show_icons=true&locale=en&layout=compact" alt="githubWithGHANA" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubWithGHANA&show_icons=true&locale=en" alt="githubWithGHANA" /></p>
