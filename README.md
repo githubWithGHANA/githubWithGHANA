@@ -53,4 +53,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=githubWithGHANA&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubWithGHANA&" alt="githubWithGHANA" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=githubWithGHANA)](https://git.io/streak-stats)
+
