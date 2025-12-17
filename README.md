@@ -54,6 +54,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=githubWithGHANA&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+![GitHub Snake Light](https://raw.githubusercontent.com/githubWithGHANA/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/githubWithGHANA/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ### 🔥 Contribution Streak
 > Consistency is the key to mastery 🚀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubWithGHANA&" alt="githubWithGHANA" /></p>
