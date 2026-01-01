@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubWithGHANA&label=Profile%20views&color=0e75b6&style=flat" alt="githubWithGHANA" /> </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=githubWithGHANA&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="githubWithGHANA" />
-</p>
 
 <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/blogbranding.png" alt="BlogBranding" />
  
@@ -20,13 +16,12 @@
 
 - 🔭 I’m currently working on **AWS and DevOps Projects**
 
-- 📫 How to reach me **professional12id@gmail.com**
+- 📫 How to reach me **ghanshyammahunta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/itsprasad3/" target="blank"><img align="center" src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/itsprasad3/" height="55" width="50" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,16 +36,17 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/whale-docker.gif" alt="docker" width="55" height="55"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> 
 <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
-</a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a> 
 </p>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&show_icons=true&locale=en&layout=compact" alt="Stats Loading..." />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&show_icons=true&locale=en&layout=compact" alt="githubWithGHANA" /></p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubWithGHANA&show_icons=true&locale=en" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubWithGHANA&show_icons=true&locale=en" alt="githubWithGHANA" /></p>
-
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=githubWithGHANA&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
@@ -58,4 +54,4 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/githubWithGHANA/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ### 🔥 Contribution Streak
 > Consistency is the key to mastery 🚀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubWithGHANA&" alt="githubWithGHANA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubWithGHANA&" alt="My GitHub Streak Loading..." /></p>
