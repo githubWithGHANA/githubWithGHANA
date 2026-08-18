@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/itsprasad3/" target="blank"><img align="center" src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/itsprasad3/" height="55" width="50" /></a>
+<a href="https://www.linkedin.com/in/ghanshyama/" target="blank"><img align="center" src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/itsprasad3/" height="55" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
