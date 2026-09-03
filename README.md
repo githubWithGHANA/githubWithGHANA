@@ -61,9 +61,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&show_icons=true&locale=en&layout=compact" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=githubWithGHANA&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubWithGHANA&layout=compact&theme=dark&v=2" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=githubWithGHANA&show_icons=true&theme=dark&v=2" />
 </div>
 
 ---
