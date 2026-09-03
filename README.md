@@ -13,7 +13,7 @@
 </div>
 <br><br>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="CI/CD" width="570" src="https://github.com/githubWithGHANA/githubWithGHANA/blob/main/anime.gif">
 
 ### 👨‍💻 About Me
 
